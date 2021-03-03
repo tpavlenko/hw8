@@ -13,19 +13,6 @@
 // data.p // 600
 // data.str // 'hello'
 
-// data = {
-// 	addRecord: function () { },
-// 	p: 600,
-// 	str: 'hello',
-// 	y: -50
-// }
-
-// data.addRecord({ x: 10 }, { y: 20 }, { z: 30, x: 50 });
-// data.x // 50
-// data.y // 20
-// data.z // 30
-// data.p // 600
-// data.str // 'hello'
 
 data = {
 	addRecord: function () {
